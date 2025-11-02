@@ -11,7 +11,7 @@ Practical, well‑documented tooling for applied statistics and econometrics: de
   [Docs](https://finite-sample.github.io/calibre/) • [GitHub](https://github.com/finite-sample/calibre)
 
 - **Rank‑Preserving Calibration** — Calibrate multiclass probabilities to match known totals **without** breaking within‑class ranking (Dykstra projections; strict or nearly‑isotonic options; ADMM variant).  
-  [Docs](https://finite-sample.github.io/rank_preserving_calibration/) • [GitHub](https://github.com/finite-sample/rank_preserving_calibration)
+  [Docs](https://finite-sample.github.io/rank-preserving-calibration/) • [GitHub](https://github.com/finite-sample/rank-preserving-calibration)
 
 - **Optimal Classification Cutoffs** — Exact \(O(n\log n)\) thresholding for F1/precision/recall/accuracy, cost‑sensitive utilities, multiclass strategies; scikit‑learn API.  
   [Docs](https://finite-sample.github.io/optimal-classification-cutoffs/) • [GitHub](https://github.com/finite-sample/optimal-classification-cutoffs)
