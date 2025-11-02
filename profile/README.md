@@ -14,7 +14,7 @@ Practical, well‑documented tooling for applied statistics and econometrics: de
   [Docs](https://finite-sample.github.io/rank_preserving_calibration/) • [GitHub](https://github.com/finite-sample/rank_preserving_calibration)
 
 - **Optimal Classification Cutoffs** — Exact \(O(n\log n)\) thresholding for F1/precision/recall/accuracy, cost‑sensitive utilities, multiclass strategies; scikit‑learn API.  
-  [Docs](https://finite-sample.github.io/optimal_classification_cutoffs/) • [GitHub](https://github.com/finite-sample/optimal_classification_cutoffs)
+  [Docs](https://finite-sample.github.io/optimal-classification-cutoffs/) • [GitHub](https://github.com/finite-sample/optimal-classification-cutoffs)
 
 - **pyppur** — Projection‑pursuit dimensionality reduction optimizing distance distortion or reconstruction loss; scikit‑learn API.  
   [Docs](https://finite-sample.github.io/pyppur/) • [GitHub](https://github.com/finite-sample/pyppur)
