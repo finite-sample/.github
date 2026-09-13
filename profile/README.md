@@ -1,6 +1,6 @@
 ## Finite Sample
 
-Practical, well-documented tools for applied statistics, econometrics, and machine learning. The projects range from small research replications to reusable Python and R libraries. Most repositories are deliberately narrow: each tests one estimator, design choice, or workflow and records the finite-sample behavior that motivated it.
+Projects and research code related to statistics, econometrics, and machine learning. The repositories vary in scope and implementation language; many explore a specific estimator, design choice, or computational method.
 
 📐 **Econometrics and causal inference**: [LATE](https://github.com/finite-sample/late), [late_iv](https://github.com/finite-sample/late_iv), [tworeg](https://github.com/finite-sample/tworeg), [fuzzy](https://github.com/finite-sample/fuzzy), [gsynth](https://github.com/finite-sample/gsynth), [smooth-operator](https://github.com/finite-sample/smooth-operator), [double-hte](https://github.com/finite-sample/double-hte), [interflex](https://github.com/finite-sample/interflex), [sensemakr](https://github.com/finite-sample/sensemakr), [hbal](https://github.com/finite-sample/hbal), and [simcheck](https://github.com/finite-sample/simcheck). These repositories study identification, sensitivity, treatment-effect estimation, smoothing, and simulation-based checks.
 
@@ -14,6 +14,4 @@ Practical, well-documented tools for applied statistics, econometrics, and machi
 
 📚 **Replications, benchmarks, and teaching materials**: [econometric_bench](https://github.com/finite-sample/econometric_bench), [benchmarking-benchmarks](https://github.com/finite-sample/benchmarking-benchmarks), [guess](https://github.com/finite-sample/guess), [dann](https://github.com/finite-sample/dann), [total_error](https://github.com/finite-sample/total_error), [bagged_fsr](https://github.com/finite-sample/bagged_fsr), [bagged_mp](https://github.com/finite-sample/bagged_mp), [deliberately](https://github.com/finite-sample/deliberately), and [ds](https://github.com/finite-sample/ds). These projects preserve runnable examples, reproduce published or proposed calculations, and test methods under controlled finite samples.
 
-🤖 **R interfaces and services**: [rmcp](https://github.com/finite-sample/rmcp) and [rmcp-serve](https://github.com/finite-sample/rmcp-serve) expose selected R capabilities through an MCP server and a small web service.
-
-The organization also maintains the [finite-sample website](https://github.com/finite-sample/finite-sample.github.io), which collects explanations and links to the projects.
+🤖 **R interfaces**: [rmcp](https://github.com/finite-sample/rmcp) exposes selected R capabilities through an MCP server.
