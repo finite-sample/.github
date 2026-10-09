@@ -1,7 +1,5 @@
 ## Finite Sample
 
-Research code for statistics, econometrics, and machine learning.
-
 📐 **Causal inference and econometrics**: [late](https://github.com/finite-sample/late), [late_iv](https://github.com/finite-sample/late_iv), [double-hte](https://github.com/finite-sample/double-hte), [smooth-operator](https://github.com/finite-sample/smooth-operator), [synth-predictors-op-bug](https://github.com/finite-sample/synth-predictors-op-bug), [alsgls](https://github.com/finite-sample/alsgls), [simcheck](https://github.com/finite-sample/simcheck), [hybrid](https://github.com/finite-sample/hybrid)
 
 🧪 **ML predictions as measurements**: [tworeg](https://github.com/finite-sample/tworeg), [total_error](https://github.com/finite-sample/total_error), [swaps](https://github.com/finite-sample/swaps)
