@@ -12,7 +12,7 @@
 
 🧭 **Less greedy methods**: [beam-fsr](https://github.com/finite-sample/beam-fsr), [bagged_fsr](https://github.com/finite-sample/bagged_fsr), [bagged_mp](https://github.com/finite-sample/bagged_mp), [robust-cart](https://github.com/finite-sample/robust-cart), [treegptq](https://github.com/finite-sample/treegptq)
 
-🔎 **Joins**: [preclink](https://github.com/finite-sample/preclink), [setjoin](https://github.com/finite-sample/setjoin)
+🔎 **Joins**: [preclink](https://github.com/finite-sample/preclink), [setjoin](https://github.com/finite-sample/setjoin), [causal_linkage](https://github.com/finite-sample/causal_linkage)
 
 〰️ **Smoothing, binning, and dimension reduction**: [incline](https://github.com/finite-sample/incline), [hbw](https://github.com/finite-sample/hbw), [optimal_cuts](https://github.com/finite-sample/optimal_cuts), [pyppur](https://github.com/finite-sample/pyppur)
 
