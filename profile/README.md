@@ -12,7 +12,7 @@
 
 🧭 **Less greedy methods**: [beam-fsr](https://github.com/finite-sample/beam-fsr), [bagged_fsr](https://github.com/finite-sample/bagged_fsr), [bagged_mp](https://github.com/finite-sample/bagged_mp), [robust-cart](https://github.com/finite-sample/robust-cart), [treegptq](https://github.com/finite-sample/treegptq)
 
-🔎 **Joins and nearest neighbors**: [preclink](https://github.com/finite-sample/preclink), [setjoin](https://github.com/finite-sample/setjoin), [pyppann](https://github.com/finite-sample/pyppann), [dann](https://github.com/finite-sample/dann)
+🔎 **Joins and nearest neighbors**: [preclink](https://github.com/finite-sample/preclink), [setjoin](https://github.com/finite-sample/setjoin), [pyppann](https://github.com/finite-sample/pyppann)
 
 〰️ **Smoothing, binning, and dimension reduction**: [incline](https://github.com/finite-sample/incline), [hbw](https://github.com/finite-sample/hbw), [optimal_cuts](https://github.com/finite-sample/optimal_cuts), [pyppur](https://github.com/finite-sample/pyppur)
 
@@ -22,4 +22,4 @@
 
 ⚖️ **Benchmarks**: [benchmarking-benchmarks](https://github.com/finite-sample/benchmarking-benchmarks), [econometric_bench](https://github.com/finite-sample/econometric_bench)
 
-📚 **Other**: [stagecoachml](https://github.com/finite-sample/stagecoachml), [lowdimtraining](https://github.com/finite-sample/lowdimtraining), [rmcp](https://github.com/finite-sample/rmcp), [ds](https://github.com/finite-sample/ds), [prop_male](https://github.com/finite-sample/prop_male)
+📚 **Other**: [stagecoachml](https://github.com/finite-sample/stagecoachml), [lowdimtraining](https://github.com/finite-sample/lowdimtraining), [rmcp](https://github.com/finite-sample/rmcp), [ds](https://github.com/finite-sample/ds), [prop_male](https://github.com/finite-sample/prop_male), [dann](https://github.com/finite-sample/dann)
