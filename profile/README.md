@@ -10,7 +10,7 @@
 
 ⚓ **Stability**: [Auditing prediction instability](https://github.com/finite-sample/stable-cart), [Bootstrap consistency training](https://github.com/finite-sample/bcr), [Reducing forgetting during retraining](https://github.com/finite-sample/pareto-gd), etc.
 
-🧭 **Less greedy methods**: [Bagged forward stepwise regression](https://github.com/finite-sample/bagged_fsr), [Decision trees from recurring splits](https://github.com/finite-sample/robust-cart), etc.
+🧭 **Less greedy methods**: [Bagged forward stepwise regression](https://github.com/finite-sample/bagged_fsr), [Decision trees from recurring splits](https://github.com/finite-sample/robust_cart), etc.
 
 🔎 **Joins**: [High-precision record linkage](https://github.com/finite-sample/preclink), [Record linkage that preserves groups](https://github.com/finite-sample/setjoin), [Randomization inference with uncertain linkage](https://github.com/finite-sample/causal_linkage)
 
